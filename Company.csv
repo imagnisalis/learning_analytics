@@ -1,0 +1,81 @@
+course_tags;courseid;course_type;mandatory;difficulty_level;courseid_relatedto;empoloyeeID;employee_type;performance;salary;quiz_grade;quiz_time_spent;quiz_trials;extra_objects_time;forum_time_spent;course_assessment;course_recomend/rating
+ legal;1;basic;yes;1;"2;3";1;employee;78;1200;70;411;2;749;745;4;4
+"legal;product";2;basic;yes;2;"1;6";1;employee;78;1200;92;580;3;960;1070;3;4
+"office;email";3;ict;yes;1;"4;5";1;employee;78;1200;42;309;1;1149;655;3;3
+"sharepoint;tableau";4;ict;no;2;;1;employee;78;1200;32;425;3;1158;746;3;5
+"office;presentations";5;soft skills;no;1;;1;employee;78;1200;32;348;1;958;749;3;5
+"presentations;crm";6;soft skills;no;2;;1;employee;78;1200;42;557;3;910;1006;4;5
+"crm;time management";7;manager;no;1;8;2;manager;81;1600;56;392;1;1026;1113;4;2
+"people management;product management";8;manager;no;2;;2;manager;81;1600;100;591;3;694;1091;4;1
+"product management;tableau;office;legal";9;agent;yes;1;10;3;agent;80;1500;94;391;1;1161;671;3;1
+"people;crm;time management;email";10;agent;no;2;;3;agent;80;1500;79;435;3;1062;986;3;4
+ legal;1;basic;yes;1;"2;3";4;employee;71;1200;63;485;3;784;623;4;3
+"legal;product";2;basic;yes;2;"1;6";4;employee;71;1200;90;379;1;981;1018;4;2
+"office;email";3;ict;yes;1;"4;5";4;employee;71;1200;51;309;3;1152;748;4;2
+"sharepoint;tableau";4;ict;no;2;;4;employee;71;1200;100;439;1;822;866;5;4
+"office;presentations";5;soft skills;no;1;;4;employee;71;1200;87;488;2;1031;875;5;2
+"presentations;crm";6;soft skills;no;2;;4;employee;71;1200;94;383;3;832;995;5;3
+"crm;time management";7;manager;no;1;8;5;manager;85;1600;100;459;3;1059;943;5;1
+"people management;product management";8;manager;no;2;;5;manager;85;1600;100;347;3;895;1033;4;2
+"product management;tableau;office;legal";9;agent;yes;1;10;6;agent;91;1500;55;542;2;1133;606;3;4
+"people;crm;time management;email";10;agent;no;2;;6;agent;91;1500;67;408;3;1119;954;4;2
+ legal;1;basic;yes;1;"2;3";7;employee;58;1200;81;536;1;713;858;5;5
+"legal;product";2;basic;yes;2;"1;6";7;employee;58;1200;30;479;1;698;866;3;4
+"office;email";3;ict;yes;1;"4;5";7;employee;58;1200;53;535;1;852;803;5;5
+"sharepoint;tableau";4;ict;no;2;;7;employee;58;1200;92;300;1;823;968;4;3
+"office;presentations";5;soft skills;no;1;;7;employee;58;1200;100;357;1;1030;615;3;2
+"presentations;crm";6;soft skills;no;2;;7;employee;58;1200;96;501;2;713;786;3;4
+"crm;time management";7;manager;no;1;8;8;manager;92;1600;42;494;2;748;874;3;5
+"people management;product management";8;manager;no;2;;8;manager;92;1600;63;582;1;1187;822;5;1
+"product management;tableau;office;legal";9;agent;yes;1;10;9;agent;87;1500;62;333;3;811;846;3;2
+"people;crm;time management;email";10;agent;no;2;;9;agent;87;1500;56;596;1;776;830;5;5
+ legal;1;basic;yes;1;"2;3";10;employee;71;1200;44;534;1;976;709;4;1
+"legal;product";2;basic;yes;2;"1;6";10;employee;71;1200;100;560;1;814;1027;5;4
+"office;email";3;ict;yes;1;"4;5";10;employee;71;1200;63;399;3;1150;871;4;2
+"sharepoint;tableau";4;ict;no;2;;10;employee;71;1200;100;578;2;917;1039;5;4
+"office;presentations";5;soft skills;no;1;;10;employee;71;1200;95;411;3;776;1141;3;5
+"presentations;crm";6;soft skills;no;2;;10;employee;71;1200;72;577;3;814;601;5;2
+"crm;time management";7;manager;no;1;8;11;manager;85;1600;100;519;1;703;1076;4;3
+"people management;product management";8;manager;no;2;;11;manager;85;1600;96;489;1;1116;615;3;5
+"product management;tableau;office;legal";9;agent;yes;1;10;12;agent;91;1500;93;445;2;1041;869;4;4
+"people;crm;time management;email";10;agent;no;2;;12;agent;91;1500;67;513;2;1078;1175;3;1
+ legal;1;basic;yes;1;"2;3";13;employee;65;1200;69;498;1;1011;936;4;2
+"legal;product";2;basic;yes;2;"1;6";13;employee;65;1200;100;414;1;1143;725;3;4
+"office;email";3;ict;yes;1;"4;5";13;employee;65;1200;62;418;3;1062;1193;5;1
+"sharepoint;tableau";4;ict;no;2;;13;employee;65;1200;91;398;3;849;931;3;3
+"office;presentations";5;soft skills;no;1;;13;employee;65;1200;86;450;2;1168;747;3;4
+"presentations;crm";6;soft skills;no;2;;13;employee;65;1200;54;404;1;697;1116;5;5
+"crm;time management";7;manager;no;1;8;14;manager;93;1600;92;423;1;778;990;4;1
+"people management;product management";8;manager;no;2;;14;manager;93;1600;89;416;1;796;1082;3;1
+"product management;tableau;office;legal";9;agent;yes;1;10;15;agent;86;1500;60;426;1;1077;913;5;3
+"people;crm;time management;email";10;agent;no;2;;16;agent;86;1500;100;497;2;632;1157;3;3
+ legal;1;basic;yes;1;"2;3";17;employee;84;1200;49;345;1;709;1037;3;5
+"legal;product";2;basic;yes;2;"1;6";17;employee;84;1200;73;344;3;708;755;3;3
+"office;email";3;ict;yes;1;"4;5";17;employee;84;1200;30;351;2;801;755;3;3
+"sharepoint;tableau";4;ict;no;2;;17;employee;84;1200;100;507;1;1072;1034;5;4
+"office;presentations";5;soft skills;no;1;;17;employee;84;1200;91;337;1;1131;1194;3;5
+"presentations;crm";6;soft skills;no;2;;17;employee;84;1200;45;388;1;684;952;3;5
+"crm;time management";7;manager;no;1;8;18;manager;73;1600;57;356;2;763;953;4;5
+"people management;product management";8;manager;no;2;;18;manager;73;1600;66;477;3;689;979;3;4
+"product management;tableau;office;legal";9;agent;yes;1;10;19;agent;69;1500;84;600;1;1061;1047;5;4
+"people;crm;time management;email";10;agent;no;2;;19;agent;69;1500;88;549;3;1009;689;4;3
+ legal;1;basic;yes;1;"2;3";20;employee;47;1200;43;597;3;660;735;5;2
+"legal;product";2;basic;yes;2;"1;6";20;employee;47;1200;100;571;3;698;1111;4;3
+"office;email";3;ict;yes;1;"4;5";20;employee;47;1200;50;523;2;797;1148;3;2
+"sharepoint;tableau";4;ict;no;2;;20;employee;47;1200;100;546;2;646;775;3;5
+"office;presentations";5;soft skills;no;1;;20;employee;47;1200;48;330;3;1061;971;5;4
+"presentations;crm";6;soft skills;no;2;;20;employee;47;1200;73;331;3;659;769;5;2
+"crm;time management";7;manager;no;1;8;21;manager;78;1600;62;532;2;815;873;5;2
+"people management;product management";8;manager;no;2;;21;manager;78;1600;77;355;1;1082;1172;3;5
+"product management;tableau;office;legal";9;agent;yes;1;10;22;agent;78;1500;60;526;1;603;1152;3;3
+"people;crm;time management;email";10;agent;no;2;;22;agent;78;1500;100;451;2;867;1009;5;5
+ legal;1;basic;yes;1;"2;3";23;employee;88;1200;71;365;1;981;604;3;2
+"legal;product";2;basic;yes;2;"1;6";23;employee;88;1200;43;482;3;728;745;3;3
+"office;email";3;ict;yes;1;"4;5";23;employee;88;1200;100;563;1;1070;857;4;4
+"sharepoint;tableau";4;ict;no;2;;23;employee;88;1200;66;317;1;1044;901;3;1
+"office;presentations";5;soft skills;no;1;;23;employee;88;1200;46;416;1;770;963;5;1
+"presentations;crm";6;soft skills;no;2;;23;employee;88;1200;58;553;1;1106;850;4;5
+"crm;time management";7;manager;no;1;8;24;manager;68;1600;83;571;1;968;1052;5;1
+"people management;product management";8;manager;no;2;;24;manager;68;1600;98;469;3;937;1113;3;3
+"product management;tableau;office;legal";9;agent;yes;1;10;25;agent;52;1500;79;302;3;693;714;3;5
+"people;crm;time management;email";10;agent;no;2;;25;agent;52;1500;88;512;1;841;1170;3;5
